@@ -1,0 +1,3 @@
+
+message-format: '%sender: %message'
+spy-format: '[%world] %sender: %message'

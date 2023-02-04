@@ -1,0 +1,6 @@
+name: PerWorldChat
+version: '${project.version}'
+main: me.rileycalhoun.perworldchat.PerWorldChat
+api-version: 1.19
+authors: [ Quizaciously ]
+description: A simple per world chat system for Spigot.
